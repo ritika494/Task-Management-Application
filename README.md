@@ -1,4 +1,4 @@
-# Task Management System (Django Rest and Next JS)
+# Task Management System — Full Stack Project Management App
 
 Desktop Preview            |  Mobile Preview
 :-------------------------:|:-------------------------:
