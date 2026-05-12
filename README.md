@@ -173,7 +173,3 @@ The backend is powered by Django REST Framework with Djoser and Simple JWT for s
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-- Inspired by various open-source projects and resources, such as using cookies to enhance security by [koladev32](https://github.com/koladev32/django-nextjs-auth/tree/main).
-- Special thanks to [Django](https://www.djangoproject.com/) and [React](https://reactjs.org/) for their excellent frameworks.
