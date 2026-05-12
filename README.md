@@ -5,11 +5,8 @@ Desktop Preview            |  Mobile Preview
 ![Desktop](./images/preview_screen.png)  |  ![Mobile](./images/preview_mobile.png)
 
 ## Description
-Task Management System is a comprehensive full-stack web application built with Django Rest Framework for the backend, Next.js for the frontend. It provides an platform for users to manage projects, tasks, comments, and tags efficiently. It offers a simple, responsive interface for seamless project management and includes robust authentication capabilities using Djoser with Django REST Framework Simple JWT, ensuring secure user access and management.
-
-Give a star if you like it, find it useful, or want to support this project! 🌟 Your support helps keep the project active and enhances its development.
-
-If you use this project in your work or build upon it, please give proper credit and link back to [https://github.com/mimi030/](https://github.com/mimi030/). 
+Task Management System is a full-stack project management application built with Django REST Framework and Next.js. It enables users to create and manage projects, organize tasks, add comments, assign tags, and track work efficiently through a clean and responsive interface.
+The backend is powered by Django REST Framework with Djoser and Simple JWT for secure authentication and user management, while the frontend is built with Next.js to deliver a fast and seamless user experience.
 
 <details>
   <summary>Project Walkthrough</summary>
