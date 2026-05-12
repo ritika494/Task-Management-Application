@@ -1,2 +1,2 @@
 # Task-Management-Application
-About Task management application with role-based access control (RBAC). Users are assigned roles (Admin, Manager, Employee) with specific permissions for managing tasks and users. Built using Node.js, Express, MongoDB, JWT, and React.
+Task Management System is a comprehensive full-stack web application built with Django Rest Framework for the backend, Next.js for the frontend. It provides an platform for users to manage projects, tasks, comments, and tags efficiently. It offers a simple, responsive interface for seamless project management and includes robust authentication capabilities using Djoser with Django REST Framework Simple JWT, ensuring secure user access and management.
